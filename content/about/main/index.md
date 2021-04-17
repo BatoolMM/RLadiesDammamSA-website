@@ -1,12 +1,17 @@
 ---
 ## Configure page content in wide column
-title: "Discover our latest activities!" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
-number_categories: 3 # set to zero to exclude
+title: "Our Core Team" # leave blank to exclude
+number_featured: 0 # pulling from mainSections in config.toml
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  We add all our materials and workshops to our GitHub account and we also curate some contents from the other RLadies chapters to help you start your learning journey in R.
-show_outro: true
+  We are group of ladies from Saudi Arabia who want to broadcast our love to R. We wish to make R more approachable to anyone who wants to develop his/her data science skills.
+  
+  Batool Almarzouq: PhD from the University of Liverpool 
+  
+  Mariam Mohammed: IAU Undergradute Student
+  
+show_outro: false
 outro: |
   <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
 ---

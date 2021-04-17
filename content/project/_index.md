@@ -1,6 +1,6 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
+title: A Specialized Series to Help you Grow
+description: "We also curate some contents from the other RLadies chapters to help you start your learning journey in R."
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true

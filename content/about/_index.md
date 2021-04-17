@@ -3,7 +3,7 @@ title: "About"
 description: |
   R-Ladies Dammam.
 show_header: true
-sidebar_left: false
+sidebar_left: true
 # Keep this! Do not edit.
 cascade:
   headless: true

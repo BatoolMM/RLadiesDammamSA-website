@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies Saudi Arabia"
 subtitle: "A Welcoming place to learn R"
-description: "This is a local chapter of R-Ladies Global in Saudi Arabia (Dammam), an organisation that promotes gender diversity in the R community worldwide. We organise a variety of activities and workshops to learn about the R programming language, algorithms and advanced tools.
+description: "This is a local chapter of R-Ladies Global in Saudi Arabia (Dammam), an organisation that promotes gender diversity in the R community worldwide. We organise a variety of activities and workshops to learn about the R programming language, algorithms and advanced tools. 
 "
 date: 2019-02-18T12:27:33-06:00
 images:
